@@ -4,18 +4,20 @@
     "url": "https://www.ravro.ir",
     "icon": "https://icons.duckduckgo.com/ip3/www.ravro.ir.ico",
     "slug": "ravro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2229,
-    "timeDay": 2019,
-    "timeWeek": 2280,
-    "timeMonth": 2229,
-    "timeYear": 2229,
-    "dailyMinutesDown": {}
+    "time": 2143,
+    "timeDay": 1606,
+    "timeWeek": 2144,
+    "timeMonth": 2143,
+    "timeYear": 2143,
+    "dailyMinutesDown": {
+      "2024-03-07": 0
+    }
   },
   {
     "name": "Google",
