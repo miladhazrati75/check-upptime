@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ravro.ir.ico",
     "slug": "ravro",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.23%",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 2116,
-    "timeDay": 1701,
-    "timeWeek": 2078,
-    "timeMonth": 2116,
-    "timeYear": 2116,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 2138,
+    "timeDay": 2448,
+    "timeWeek": 2059,
+    "timeMonth": 2138,
+    "timeYear": 2138,
     "dailyMinutesDown": {
       "2024-03-07": 11
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 89,
-    "timeDay": 157,
-    "timeWeek": 85,
-    "timeMonth": 89,
-    "timeYear": 89,
+    "time": 88,
+    "timeDay": 77,
+    "timeWeek": 83,
+    "timeMonth": 88,
+    "timeYear": 88,
     "dailyMinutesDown": {}
   }
 ]
