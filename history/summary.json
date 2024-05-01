@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ravro.ir.ico",
     "slug": "ravro",
     "status": "up",
-    "uptime": "99.46%",
+    "uptime": "99.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.65%",
+    "uptimeWeek": "96.34%",
     "uptimeMonth": "98.98%",
-    "uptimeYear": "99.46%",
+    "uptimeYear": "99.47%",
     "time": 2306,
     "timeDay": 2459,
-    "timeWeek": 2663,
+    "timeWeek": 2065,
     "timeMonth": 2357,
     "timeYear": 2306,
     "dailyMinutesDown": {
@@ -30,17 +30,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 81,
-    "timeWeek": 128,
-    "timeMonth": 114,
-    "timeYear": 110,
-    "dailyMinutesDown": {}
+    "time": 111,
+    "timeDay": 113,
+    "timeWeek": 130,
+    "timeMonth": 115,
+    "timeYear": 111,
+    "dailyMinutesDown": {
+      "2024-05-01": 0
+    }
   }
 ]
