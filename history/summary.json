@@ -4,7 +4,7 @@
     "url": "https://www.ravro.ir",
     "icon": "https://icons.duckduckgo.com/ip3/www.ravro.ir.ico",
     "slug": "ravro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
     "uptimeDay": "90.37%",
     "uptimeWeek": "95.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 2560,
     "timeYear": 2415,
     "dailyMinutesDown": {
+      "2024-05-18": 0,
       "2024-05-17": 139,
       "2024-05-16": 114,
       "2024-05-15": 90,
